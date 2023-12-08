@@ -1,4 +1,4 @@
-Editor Option: Notepad++
+Editor Option: VIM
 Custom Editor Path: 
 Default Branch Option:  
 Path Option: Cmd
